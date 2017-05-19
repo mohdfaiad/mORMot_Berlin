@@ -1,0 +1,887 @@
+C:\LIB\DELPHI_LIB\mORMot_Lastest\SQLite3\Samples\31 - WebSockets\Project31LongWorkServer.exe 0.0.0.0 (2017-04-18 16:20:58)Host=JONIT440P User=xchinjo CPU=4*9-6-15363:FFFBEBBFFFFBFA7FAB27000000 OS=15.0=6.2.9200 Wow64=0 Freq=2825485Environment variables=ALLUSERSPROFILE=C:\ProgramData	APPDATA=C:\Users\xchinjo\AppData\Roaming	CommonProgramFiles=C:\Program Files\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=JONIT440P	ComSpec=C:\WINDOWS\system32\cmd.exe	ESET_OPTIONS=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer	FPS_BROWSER_USER_PROFILE_STRING=Default	HOMEDRIVE=C:	HOMEPATH=\Users\xchinjo	LOCALAPPDATA=C:\Users\xchinjo\AppData\Local	LOGONSERVER=\\JONIT440P	NLS_LANG=THAI_THAILAND.TH8TISASCII	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\xchinjo\OneDrive	ORACLE_HOME=D:\app\xchinjo\product\11.2.0\dbhome_1	OS=Windows_NT	Path=D:\Oracle\OracleInstantClient;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin64;C:\Users\Public\Documents\RAD Studio\9.0\Bpl\Win64;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\OpenVPN\bin;C:\Program Files (x86)\Common Files\Tom Sawyer Software\8.0.0;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\CMake\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Em	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=3c03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\xchinjo\AppData\Local\Temp	TMP=C:\Users\xchinjo\AppData\Local\Temp	TNS_ADMIN=D:\Oracle\OracleInstantClient	TVT=C:\Program Files (x86)\Lenovo	USERDOMAIN=JONIT440P	USERDOMAIN_ROAMINGPROFILE=JONIT440P	USERNAME=xchinjo	USERPROFILE=C:\Users\xchinjo	VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\	windir=C:\WINDOWSTSQLLog 1.18.3289 FTS3 2017-04-18T10:18:5620170418 10185647  !  +    mORMotHttpServer.TSQLHttpServer(0254B820).Create useBidirSocket (secNone) on port 888
+20170418 10185647  " info  SetThreadName 00001598=TSQLHttpServer 888/root TWebSocketServerRest
+20170418 10185647  ! http  	mORMotHttpServer.TSQLHttpServer(0254B820) {"TWebSocketServerRest(025A3E40)":{"ServerConnectionCount":0,"ServerKeepAliveTimeOut":3000,"TCPPrefix":"","ThreadPoolContentionCount":0,"ThreadPoolContentionAbortCount":0,"APIVersion":".514","ServerName":"mORMot (Windows)","ProcessName":"root "}} initialized for root
+20170418 10185647  !  -    00.002.703
+20170418 10185647  " trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerRest) root=root ThreadID=00001598 ThreadCount=1
+20170418 10190336  # info  SetThreadName 00003180=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10190336  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00003180 ThreadCount=2
+20170418 10190336  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10190336  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10190336  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10190336  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 58 us
+20170418 10190336  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432003
+20170418 10190336  #  -    00.000.192
+20170418 10190336  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432003
+20170418 10190336  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10190336  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10190336  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10190336  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 350 us
+20170418 10190336  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10190336  #  -    00.001.718
+20170418 10190336  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10190336  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=58 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["UniEdit1",1]
+20170418 10190336  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=14)
+20170418 10190336  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["UniEdit1",1]
+20170418 10190336  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 396 us
+20170418 10190336  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10190336  #  -    00.001.638
+20170418 10190337  $ info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(UniEdit1) started
+20170418 10190337  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10190337  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10190337  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10190337  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10190337  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10190337  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 910 us
+20170418 10190337  #  -    00.001.669
+20170418 10190337  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10190337  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10190337  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10190337  #  -    00.000.067
+20170418 10190337  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00003180 ThreadCount=1
+20170418 10190839  $ warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10190839  $ info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(UniEdit1) notified
+20170418 10190839  $ trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10195612  # info  SetThreadName 0000439C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10195612  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000439C ThreadCount=2
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10195612  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10195612  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10195612  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 48 us
+20170418 10195612  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432056
+20170418 10195612  #  -    00.000.180
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432056
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10195612  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10195612  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10195612  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 60 us
+20170418 10195612  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10195612  #  -    00.000.228
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=58 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["UniEdit1",1]
+20170418 10195612  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=14)
+20170418 10195612  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["UniEdit1",1]
+20170418 10195612  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 126 us
+20170418 10195612  % info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(UniEdit1) started
+20170418 10195612  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10195612  #  -    00.000.361
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10195612  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10195612  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10195612  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10195612  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 80 us
+20170418 10195612  #  -    00.000.180
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10195612  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10195612  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10195612  #  -    00.000.067
+20170418 10195612  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000439C ThreadCount=1
+20170418 10200125  % warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10200125  % info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(UniEdit1) notified
+20170418 10200125  % trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10204831  # info  SetThreadName 00000B18=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204831  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00000B18 ThreadCount=2
+20170418 10204831  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204831  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204831  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204831  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 59 us
+20170418 10204831  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432112
+20170418 10204831  #  -    00.000.230
+20170418 10204831  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432112
+20170418 10204831  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204831  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204831  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204831  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 56 us
+20170418 10204831  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204831  #  -    00.000.213
+20170418 10204831  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204831  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204831  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204831  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204831  #  -    00.000.063
+20170418 10204831  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00000B18 ThreadCount=1
+20170418 10204842  # info  SetThreadName 000013B0=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204842  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000013B0 ThreadCount=2
+20170418 10204842  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204842  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204842  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204842  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 35 us
+20170418 10204842  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432112
+20170418 10204842  #  -    00.000.133
+20170418 10204842  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432112
+20170418 10204842  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204842  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204842  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204842  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 53 us
+20170418 10204842  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204842  #  -    00.000.194
+20170418 10204842  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204842  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204842  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204842  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204842  #  -    00.000.053
+20170418 10204842  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000013B0 ThreadCount=1
+20170418 10204852  # info  SetThreadName 00000054=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204852  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00000054 ThreadCount=2
+20170418 10204852  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204852  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204852  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204852  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 47 us
+20170418 10204852  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432112
+20170418 10204852  #  -    00.000.180
+20170418 10204852  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432112
+20170418 10204852  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204852  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204852  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204852  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10204852  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204852  #  -    00.000.202
+20170418 10204852  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204852  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204852  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204852  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204852  #  -    00.000.058
+20170418 10204852  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00000054 ThreadCount=1
+20170418 10204901  # info  SetThreadName 000003B0=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204901  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000003B0 ThreadCount=2
+20170418 10204901  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204901  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204901  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204901  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 44 us
+20170418 10204901  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432112
+20170418 10204901  #  -    00.000.176
+20170418 10204901  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432112
+20170418 10204901  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204901  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204901  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204901  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10204901  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204901  #  -    00.000.177
+20170418 10204901  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204901  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204901  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204901  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204901  #  -    00.000.058
+20170418 10204901  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000003B0 ThreadCount=1
+20170418 10204911  # info  SetThreadName 00003C94=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204911  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00003C94 ThreadCount=2
+20170418 10204911  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204911  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204911  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204911  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 45 us
+20170418 10204911  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432112
+20170418 10204911  #  -    00.000.213
+20170418 10204911  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432112
+20170418 10204911  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204911  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204911  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204911  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 47 us
+20170418 10204911  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204911  #  -    00.000.176
+20170418 10204911  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204911  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204911  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204911  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204911  #  -    00.000.054
+20170418 10204911  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00003C94 ThreadCount=1
+20170418 10204923  # info  SetThreadName 00000F68=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204923  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00000F68 ThreadCount=2
+20170418 10204923  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204923  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204923  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204923  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 46 us
+20170418 10204923  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432113
+20170418 10204923  #  -    00.000.177
+20170418 10204923  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432113
+20170418 10204923  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204923  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204923  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204923  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 59 us
+20170418 10204923  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204923  #  -    00.000.213
+20170418 10204923  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204923  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204923  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204923  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204923  #  -    00.000.057
+20170418 10204923  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00000F68 ThreadCount=1
+20170418 10204933  # info  SetThreadName 0000186C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204933  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000186C ThreadCount=2
+20170418 10204933  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204933  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204933  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204933  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 43 us
+20170418 10204933  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432113
+20170418 10204933  #  -    00.000.165
+20170418 10204933  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432113
+20170418 10204933  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204933  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204933  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204933  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 45 us
+20170418 10204933  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204933  #  -    00.000.169
+20170418 10204933  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204933  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204933  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204933  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204933  #  -    00.000.053
+20170418 10204933  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000186C ThreadCount=1
+20170418 10204943  # info  SetThreadName 000041C4=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204943  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000041C4 ThreadCount=2
+20170418 10204943  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204943  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204943  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204943  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 44 us
+20170418 10204943  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432113
+20170418 10204943  #  -    00.000.175
+20170418 10204943  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432113
+20170418 10204943  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204943  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204943  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204943  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10204943  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204943  #  -    00.000.242
+20170418 10204943  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204944  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204944  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204944  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204944  #  -    00.000.048
+20170418 10204944  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000041C4 ThreadCount=1
+20170418 10204954  # info  SetThreadName 00000520=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10204954  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00000520 ThreadCount=2
+20170418 10204954  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10204954  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10204954  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10204954  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 48 us
+20170418 10204954  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432113
+20170418 10204954  #  -    00.000.202
+20170418 10204954  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432113
+20170418 10204954  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10204954  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10204954  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10204954  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10204954  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10204954  #  -    00.000.175
+20170418 10204954  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10204954  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10204954  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10204954  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10204954  #  -    00.000.070
+20170418 10204954  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00000520 ThreadCount=1
+20170418 10205002  # info  SetThreadName 0000361C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10205002  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000361C ThreadCount=2
+20170418 10205002  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10205002  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10205002  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10205002  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 46 us
+20170418 10205002  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432113
+20170418 10205002  #  -    00.000.176
+20170418 10205002  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432113
+20170418 10205002  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10205002  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10205002  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10205002  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10205002  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10205002  #  -    00.000.175
+20170418 10205002  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10205002  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10205002  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10205002  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10205002  #  -    00.000.056
+20170418 10205002  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000361C ThreadCount=1
+20170418 10205012  # info  SetThreadName 00002AB0=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10205012  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00002AB0 ThreadCount=2
+20170418 10205012  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10205012  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10205012  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10205012  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 45 us
+20170418 10205012  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432113
+20170418 10205012  #  -    00.000.176
+20170418 10205012  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432113
+20170418 10205012  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10205012  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10205012  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10205012  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 48 us
+20170418 10205012  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10205012  #  -    00.000.178
+20170418 10205012  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10205012  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10205012  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10205012  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10205012  #  -    00.000.056
+20170418 10205012  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00002AB0 ThreadCount=1
+20170418 10205650  # info  SetThreadName 00003C20=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10205650  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00003C20 ThreadCount=2
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10205650  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10205650  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10205650  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 54 us
+20170418 10205650  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432120
+20170418 10205650  #  -    00.000.221
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432120
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10205650  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10205650  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10205650  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 75 us
+20170418 10205650  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10205650  #  -    00.000.282
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=54 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["aaaa",1]
+20170418 10205650  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170418 10205650  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["aaaa",1]
+20170418 10205650  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 129 us
+20170418 10205650  & info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(aaaa) started
+20170418 10205650  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10205650  #  -    00.000.410
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10205650  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10205650  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10205650  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10205650  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 163 us
+20170418 10205650  #  -    00.000.350
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10205650  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10205650  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10205650  #  -    00.000.163
+20170418 10205650  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00003C20 ThreadCount=1
+20170418 10205858  # info  SetThreadName 00004144=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10205858  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00004144 ThreadCount=2
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10205858  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10205858  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10205858  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 46 us
+20170418 10205858  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432122
+20170418 10205858  #  -    00.000.176
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432122
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10205858  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10205858  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10205858  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10205858  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10205858  #  -    00.000.174
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=54 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["bbbb",1]
+20170418 10205858  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170418 10205858  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["bbbb",1]
+20170418 10205858  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 84 us
+20170418 10205858  ' info  {"TLongWorkServiceThread(025B2100)":{}}.Execute(bbbb) started
+20170418 10205858  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10205858  #  -    00.000.352
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10205858  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10205858  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10205858  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10205858  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 421 us
+20170418 10205858  #  -    00.000.759
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10205858  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10205858  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10205858  #  -    00.000.050
+20170418 10205858  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00004144 ThreadCount=1
+20170418 10210049  # info  SetThreadName 000015BC=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10210049  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000015BC ThreadCount=2
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10210049  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10210049  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10210049  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 47 us
+20170418 10210049  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432128
+20170418 10210049  #  -    00.000.184
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432128
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10210049  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10210049  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10210049  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10210049  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10210049  #  -    00.000.175
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=55 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["cccvc",1]
+20170418 10210049  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=11)
+20170418 10210049  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["cccvc",1]
+20170418 10210049  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 102 us
+20170418 10210049  ( info  {"TLongWorkServiceThread(025B2190)":{}}.Execute(cccvc) started
+20170418 10210049  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10210049  #  -    00.000.306
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10210049  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10210049  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10210049  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10210049  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 167 us
+20170418 10210049  #  -    00.000.768
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10210049  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10210049  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10210049  #  -    00.000.049
+20170418 10210049  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000015BC ThreadCount=1
+20170418 10210229  & warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10210229  & info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(aaaa) notified
+20170418 10210229  & trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10210416  ' warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6DE0)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10210416  ' info  {"TLongWorkServiceThread(025B2100)":{}}.Execute(bbbb) notified
+20170418 10210416  ' trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6DE0:1).Destroy ILongWorkService
+20170418 10210559  ( warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6E80)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFailed callback notification was NOT sent
+20170418 10210559  ( info  {"TLongWorkServiceThread(025B2190)":{}}.Execute(cccvc) notified
+20170418 10210559  ( trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6E80:1).Destroy ILongWorkService
+20170418 10224008  # info  SetThreadName 0000406C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10224008  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000406C ThreadCount=2
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10224009  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10224009  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10224009  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 59 us
+20170418 10224009  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432232
+20170418 10224009  #  -    00.000.228
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432232
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10224009  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10224009  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10224009  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 58 us
+20170418 10224009  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10224009  #  -    00.000.218
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=58 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["UniEdit1",1]
+20170418 10224009  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=14)
+20170418 10224009  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["UniEdit1",1]
+20170418 10224009  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 115 us
+20170418 10224009  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10224009  ) info  {"TLongWorkServiceThread(025B2100)":{}}.Execute(UniEdit1) started
+20170418 10224009  #  -    00.000.356
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10224009  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10224009  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10224009  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10224009  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 78 us
+20170418 10224009  #  -    00.000.171
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10224009  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10224009  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10224009  #  -    00.000.062
+20170418 10224009  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000406C ThreadCount=1
+20170418 10224538  ) warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6E80)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFailed callback notification was NOT sent
+20170418 10224538  ) info  {"TLongWorkServiceThread(025B2100)":{}}.Execute(UniEdit1) notified
+20170418 10224538  ) trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6E80:1).Destroy ILongWorkService
+20170418 10225055  # info  SetThreadName 0000390C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225055  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000390C ThreadCount=2
+20170418 10225055  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225055  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225055  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225055  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 47 us
+20170418 10225055  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432242
+20170418 10225055  #  -    00.000.175
+20170418 10225055  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432242
+20170418 10225055  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225055  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225055  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225055  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 45 us
+20170418 10225055  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225055  #  -    00.000.174
+20170418 10225055  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225055  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225055  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225055  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225055  #  -    00.000.065
+20170418 10225055  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000390C ThreadCount=1
+20170418 10225105  # info  SetThreadName 00003450=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225105  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00003450 ThreadCount=2
+20170418 10225105  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225105  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225105  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225105  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 47 us
+20170418 10225105  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432243
+20170418 10225105  #  -    00.000.177
+20170418 10225105  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432243
+20170418 10225105  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225105  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225105  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225105  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 44 us
+20170418 10225105  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225105  #  -    00.000.177
+20170418 10225105  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225105  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225105  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225105  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225105  #  -    00.000.057
+20170418 10225105  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00003450 ThreadCount=1
+20170418 10225116  # info  SetThreadName 000018C0=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225116  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000018C0 ThreadCount=2
+20170418 10225116  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225116  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225116  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225116  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 45 us
+20170418 10225116  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432243
+20170418 10225116  #  -    00.000.173
+20170418 10225116  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432243
+20170418 10225116  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225116  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225116  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225116  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10225116  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225116  #  -    00.000.173
+20170418 10225116  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225116  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225116  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225116  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225116  #  -    00.000.051
+20170418 10225116  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000018C0 ThreadCount=1
+20170418 10225126  # info  SetThreadName 000004F8=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225126  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000004F8 ThreadCount=2
+20170418 10225126  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225126  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225126  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225126  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 45 us
+20170418 10225126  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432243
+20170418 10225126  #  -    00.000.174
+20170418 10225126  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432243
+20170418 10225126  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225126  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225126  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225126  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 46 us
+20170418 10225126  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225126  #  -    00.000.175
+20170418 10225126  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225126  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225126  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225126  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225126  #  -    00.000.059
+20170418 10225126  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000004F8 ThreadCount=1
+20170418 10225343  # info  SetThreadName 00001D24=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225343  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00001D24 ThreadCount=2
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225343  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225343  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225343  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 46 us
+20170418 10225343  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432245
+20170418 10225343  #  -    00.000.200
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432245
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225343  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225343  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225343  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 45 us
+20170418 10225343  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225343  #  -    00.000.173
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=53 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["111",1]
+20170418 10225343  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170418 10225343  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["111",1]
+20170418 10225343  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 91 us
+20170418 10225343  * info  {"TLongWorkServiceThread(025B2190)":{}}.Execute(111) started
+20170418 10225343  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10225343  #  -    00.000.323
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10225343  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10225343  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10225343  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10225343  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 359 us
+20170418 10225343  #  -    00.000.676
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225343  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225343  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225343  #  -    00.000.048
+20170418 10225343  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00001D24 ThreadCount=1
+20170418 10225548  # info  SetThreadName 00001DB4=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225548  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00001DB4 ThreadCount=2
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225548  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225548  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225548  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 59 us
+20170418 10225548  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432247
+20170418 10225548  #  -    00.000.225
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432247
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225548  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225548  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225548  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 60 us
+20170418 10225548  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225548  #  -    00.000.231
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=53 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["222",1]
+20170418 10225548  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170418 10225548  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["222",1]
+20170418 10225548  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 93 us
+20170418 10225548  + info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(222) started
+20170418 10225548  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10225548  #  -    00.000.329
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10225548  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10225548  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10225548  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10225548  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 332 us
+20170418 10225548  #  -    00.000.678
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225548  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225548  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225548  #  -    00.000.052
+20170418 10225548  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00001DB4 ThreadCount=1
+20170418 10225742  # info  SetThreadName 00000BA4=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10225742  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00000BA4 ThreadCount=2
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10225742  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10225742  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10225742  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 47 us
+20170418 10225742  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373432249
+20170418 10225742  #  -    00.000.204
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373432249
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10225742  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10225742  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10225742  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 61 us
+20170418 10225742  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10225742  #  -    00.000.204
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=53 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["333",1]
+20170418 10225742  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170418 10225742  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["333",1]
+20170418 10225742  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 83 us
+20170418 10225742  , info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(333) started
+20170418 10225742  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10225742  #  -    00.000.309
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10225742  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10225742  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10225742  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10225742  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 311 us
+20170418 10225742  #  -    00.000.656
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10225742  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10225742  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10225742  #  -    00.000.051
+20170418 10225742  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00000BA4 ThreadCount=1
+20170418 10225933  * warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6E80)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10225933  * info  {"TLongWorkServiceThread(025B2190)":{}}.Execute(111) notified
+20170418 10225933  * trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6E80:1).Destroy ILongWorkService
+20170418 10230052  + warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6DE0)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10230052  + info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(222) notified
+20170418 10230052  + trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6DE0:1).Destroy ILongWorkService
+20170418 10230260  , warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10230260  , info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(333) notified
+20170418 10230260  , trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10490161  # info  SetThreadName 000050E8=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10490161  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=000050E8 ThreadCount=2
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10490200  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10490200  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10490200  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 59 us
+20170418 10490200  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373433922
+20170418 10490200  #  -    00.000.227
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373433922
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10490200  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10490200  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10490200  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 142 us
+20170418 10490200  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10490200  #  -    00.000.306
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=58 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["UniEdit1",1]
+20170418 10490200  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=14)
+20170418 10490200  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["UniEdit1",1]
+20170418 10490200  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 148 us
+20170418 10490200  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10490200  #  -    00.000.317
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10490200  - info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(UniEdit1) started
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10490200  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10490200  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10490200  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10490200  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 109 us
+20170418 10490200  #  -    00.000.232
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10490200  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10490200  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10490200  #  -    00.000.040
+20170418 10490200  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=000050E8 ThreadCount=1
+20170418 10490720  - warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10490720  - info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(UniEdit1) notified
+20170418 10490720  - trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10493013  # info  SetThreadName 00005550=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10493013  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00005550 ThreadCount=2
+20170418 10493013  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10493013  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10493013  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10493013  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 43 us
+20170418 10493013  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373433950
+20170418 10493013  #  -    00.000.162
+20170418 10493013  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373433950
+20170418 10493014  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10493014  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10493014  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10493014  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 76 us
+20170418 10493014  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10493014  #  -    00.000.255
+20170418 10493014  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10493014  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=55 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["aaaaa",1]
+20170418 10493014  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=11)
+20170418 10493014  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["aaaaa",1]
+20170418 10493014  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 125 us
+20170418 10493014  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10493014  #  -    00.000.377
+20170418 10493014  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10493014  . info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(aaaaa) started
+20170418 10493016  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10493016  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10493016  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10493016  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10493016  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 81 us
+20170418 10493016  #  -    00.000.195
+20170418 10493016  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10493016  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10493016  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10493016  #  -    00.000.065
+20170418 10493016  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00005550 ThreadCount=1
+20170418 10493329  # info  SetThreadName 00005EBC=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10493329  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00005EBC ThreadCount=2
+20170418 10493330  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10493330  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10493330  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10493330  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 48 us
+20170418 10493330  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373433953
+20170418 10493330  #  -    00.000.184
+20170418 10493330  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373433953
+20170418 10493330  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10493330  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10493330  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10493330  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 56 us
+20170418 10493330  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10493330  #  -    00.000.200
+20170418 10493330  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10493330  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=54 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["bbbb",1]
+20170418 10493330  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170418 10493330  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["bbbb",1]
+20170418 10493330  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 117 us
+20170418 10493330  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10493330  #  -    00.000.465
+20170418 10493330  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10493330  / info  {"TLongWorkServiceThread(025B2190)":{}}.Execute(bbbb) started
+20170418 10493331  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10493331  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10493331  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10493331  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10493331  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 88 us
+20170418 10493331  #  -    00.000.200
+20170418 10493331  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10493331  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10493331  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10493331  #  -    00.000.065
+20170418 10493331  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00005EBC ThreadCount=1
+20170418 10493605  . warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10493605  . info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(aaaaa) notified
+20170418 10493605  . trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10493619  # info  SetThreadName 0000579C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10493619  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000579C ThreadCount=2
+20170418 10493620  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10493620  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10493620  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10493620  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 48 us
+20170418 10493620  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373433956
+20170418 10493620  #  -    00.000.178
+20170418 10493620  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373433956
+20170418 10493620  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10493620  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10493620  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10493620  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 70 us
+20170418 10493620  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10493620  #  -    00.000.260
+20170418 10493620  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10493620  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=54 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["1111",1]
+20170418 10493620  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170418 10493620  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["1111",1]
+20170418 10493620  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 133 us
+20170418 10493620  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10493620  #  -    00.000.284
+20170418 10493620  0 info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(1111) started
+20170418 10493620  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10493622  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10493622  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10493622  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10493622  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10493622  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 100 us
+20170418 10493622  #  -    00.000.194
+20170418 10493622  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10493622  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10493622  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10493622  #  -    00.000.103
+20170418 10493622  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000579C ThreadCount=1
+20170418 10493804  # info  SetThreadName 00005B3C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10493804  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00005B3C ThreadCount=2
+20170418 10493805  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10493805  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10493805  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10493805  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 58 us
+20170418 10493805  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373433958
+20170418 10493805  #  -    00.000.222
+20170418 10493805  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373433958
+20170418 10493806  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10493806  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10493806  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10493806  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 67 us
+20170418 10493806  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10493806  #  -    00.000.227
+20170418 10493806  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10493806  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=54 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["2222",1]
+20170418 10493806  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170418 10493806  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["2222",1]
+20170418 10493806  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 149 us
+20170418 10493806  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10493806  1 info  {"TLongWorkServiceThread(025B2100)":{}}.Execute(2222) started
+20170418 10493806  #  -    00.000.353
+20170418 10493806  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10493807  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10493807  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10493807  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10493807  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10493807  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 75 us
+20170418 10493807  #  -    00.000.164
+20170418 10493807  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10493807  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10493807  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10493807  #  -    00.000.062
+20170418 10493807  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00005B3C ThreadCount=1
+20170418 10493913  / warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6DE0)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10493913  / info  {"TLongWorkServiceThread(025B2190)":{}}.Execute(bbbb) notified
+20170418 10493913  / trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6DE0:1).Destroy ILongWorkService
+20170418 10494028  # info  SetThreadName 0000559C=TSQLHttpServer 888/root TWebSocketServerResp
+20170418 10494028  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=0000559C ThreadCount=2
+20170418 10494029  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000001 focBinary len=31 r000001$01$03GET$0Eroot/TimeStamp$00$010$00
+20170418 10494029  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(GET root/TimeStamp inlen=0)
+20170418 10494029  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) TimeStamp 
+20170418 10494029  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 47 us
+20170418 10494029  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) 135373433960
+20170418 10494029  #  -    00.000.179
+20170418 10494029  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000001 focBinary len=74 a000001$01$03200$17Server-InternalState: 0$19text/plain; charset=UTF-8135373433960
+20170418 10494029  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000002 focBinary len=47 r000002$01$00$1Froot/LongWorkService._contract_$00$010$00[]
+20170418 10494029  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170418 10494029  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService._contract_[]
+20170418 10494029  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 61 us
+20170418 10494029  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170418 10494029  #  -    00.000.242
+20170418 10494029  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000002 focBinary len=68 a000002$01$03200$17Server-InternalState: 0$00{"result":["5C548B9BBA1FD9C5"]}
+20170418 10494029  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000003 focBinary len=54 r000003$01$00$1Eroot/LongWorkService.StartWork$00$010$00["3333",1]
+20170418 10494029  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170418 10494029  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) ILongWorkService.StartWork["3333",1]
+20170418 10494029  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 157 us
+20170418 10494029  # ret   	mORMot.TSQLRestServerFullMemory(0258F1A0) {"result":[]}
+20170418 10494029  #  -    00.000.319
+20170418 10494029  2 info  {"TLongWorkServiceThread(025B1FE0)":{}}.Execute(3333) started
+20170418 10494029  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame a000003 focBinary len=50 a000003$01$03200$17Server-InternalState: 0$00{"result":[]}
+20170418 10494030  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame r000004 focBinary len=94 r000004$01$00$1Aroot/CacheFlush/_callback_$1FSec-WebSocket-REST: NonBlocking$011$00{"ILongWorkCallback":1}
+20170418 10494030  #  +    mORMot.TSQLRestServerFullMemory(0258F1A0).URI(POST root/CacheFlush/_callback_ inlen=23)
+20170418 10494030  # call  	mORMot.TSQLRestServerFullMemory(0258F1A0) CacheFlush 
+20170418 10494030  # debug 	mORMot.TSQLRestServerFullMemory(0258F1A0) TServiceContainerServer.FakeCallbackRelease(1,"ILongWorkCallback") remote call
+20170418 10494030  # srvr  	mORMot.TSQLRestServerFullMemory(0258F1A0)   POST root/CacheFlush SOA-Method -> 200 with outlen=0 in 98 us
+20170418 10494030  #  -    00.000.213
+20170418 10494030  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) GetFrame * focConnectionClose len=0 
+20170418 10494030  # trace SynBidirSock.TWebSocketProcessServer(025A3FE0) SendFrame * focConnectionClose len=0 
+20170418 10494030  #  +    SynBidirSock.TWebSocketProcessServer(025A3FE0).007381B4 
+20170418 10494030  #  -    00.000.065
+20170418 10494030  # trace mORMot.TSQLRestServerFullMemory(0258F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=0000559C ThreadCount=1
+20170418 10494131  0 warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6980)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10494131  0 info  {"TLongWorkServiceThread(025B2070)":{}}.Execute(1111) notified
+20170418 10494131  0 trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(025F6980:1).Destroy ILongWorkService
+20170418 10494326  1 warn  mORMot.TSQLRestServerFullMemory(0258F1A0) {"TInterfacedObjectFakeServer(025F6E80)":{"Factory":{"TInterfaceFactoryRTTI(025C1A20)":{"InterfaceName":"ILongWorkCallback"}},"ClientDrivenID":1}}.CallbackInvoke: ILongWorkCallback instance has been released on the client side, so ILongWorkCallback.WorkFinished callback notification was NOT sent
+20170418 10494326  1 info  {"TLongWorkServiceThread(025B2100)":{}}.Execute(2222) notified
+20170418 10494326  1 trace mORMot.TSQLRestServerFullMemory(0258F1A0) TInterfacedObjectFakeServer(

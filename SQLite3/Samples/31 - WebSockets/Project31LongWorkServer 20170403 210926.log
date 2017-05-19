@@ -1,0 +1,140 @@
+C:\LIB\DELPHI_LIB\mORMot_Lastest\SQLite3\Samples\31 - WebSockets\Project31LongWorkServer.exe 0.0.0.0 (2017-04-03 21:09:21)Host=JONIT440P User=xchinjo CPU=4*9-6-15363:FFFBEBBFFFFBFA7FAB27000000 OS=15.0=6.2.9200 Wow64=0 Freq=2825499Environment variables=ALLUSERSPROFILE=C:\ProgramData	APPDATA=C:\Users\xchinjo\AppData\Roaming	CommonProgramFiles=C:\Program Files\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=JONIT440P	ComSpec=C:\WINDOWS\system32\cmd.exe	ESET_OPTIONS=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	HOMEDRIVE=C:	HOMEPATH=\Users\xchinjo	LOCALAPPDATA=C:\Users\xchinjo\AppData\Local	LOGONSERVER=\\JONIT440P	NLS_LANG=THAI_THAILAND.TH8TISASCII	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\xchinjo\OneDrive	ORACLE_HOME=D:\app\xchinjo\product\11.2.0\dbhome_1	OS=Windows_NT	Path=D:\Oracle\OracleInstantClient;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin64;C:\Users\Public\Documents\RAD Studio\9.0\Bpl\Win64;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\OpenVPN\bin;C:\Program Files (x86)\Common Files\Tom Sawyer Software\8.0.0;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\CMake\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Em	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=3c03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\xchinjo\AppData\Local\Temp	TMP=C:\Users\xchinjo\AppData\Local\Temp	TNS_ADMIN=D:\Oracle\OracleInstantClient	TVT=C:\Program Files (x86)\Lenovo	USERDOMAIN=JONIT440P	USERDOMAIN_ROAMINGPROFILE=JONIT440P	USERNAME=xchinjo	USERPROFILE=C:\Users\xchinjo	VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\	windir=C:\WINDOWSTSQLLog 1.18.3289 FTS3 2017-04-03T14:09:2620170403 14092643  !  +    mORMotHttpServer.TSQLHttpServer(025FB820).Create useBidirSocket (secNone) on port 8888
+20170403 14092643  " info  SetThreadName 00002DDC=TSQLHttpServer 8888/root TWebSocketServerRest
+20170403 14092643  " trace mORMot.TSQLRestServerFullMemory(0263F1A0) BeginCurrentThread(TWebSocketServerRest) root=root ThreadID=00002DDC ThreadCount=1
+20170403 14092643  ! http  	mORMotHttpServer.TSQLHttpServer(025FB820) {"TWebSocketServerRest(02653E40)":{"ServerConnectionCount":0,"ServerKeepAliveTimeOut":3000,"TCPPrefix":"","ThreadPoolContentionCount":0,"ThreadPoolContentionAbortCount":0,"APIVersion":".514","ServerName":"mORMot (Windows)","ProcessName":"root "}} initialized for root
+20170403 14092643  !  -    00.002.840
+20170403 14092844  # info  SetThreadName 00002820=TSQLHttpServer 8888/root TWebSocketServerResp
+20170403 14092844  # trace mORMot.TSQLRestServerFullMemory(0263F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00002820 ThreadCount=2
+20170403 14092844  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(GET root/TimeStamp inlen=0)
+20170403 14092844  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) TimeStamp 
+20170403 14092844  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 94 us
+20170403 14092844  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) 135371481692
+20170403 14092844  #  -    00.000.250
+20170403 14092844  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService._contract_ inlen=2)
+20170403 14092844  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService._contract_[]
+20170403 14092844  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService._contract_ SOA-Interface -> 200 with outlen=31 in 54 us
+20170403 14092844  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":["5C548B9BBA1FD9C5"]}
+20170403 14092844  #  -    00.000.175
+20170403 14093145  # trace mORMot.TSQLRestServerFullMemory(0263F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00002820 ThreadCount=1
+20170403 14093150  # info  SetThreadName 00001F60=TSQLHttpServer 8888/root TWebSocketServerResp
+20170403 14093150  # trace mORMot.TSQLRestServerFullMemory(0263F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00001F60 ThreadCount=2
+20170403 14093150  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170403 14093150  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["aaa",1]
+20170403 14093150  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 3572 us
+20170403 14093150  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14093150  $ info  {"TLongWorkServiceThread(02661F50)":{}}.Execute(aaa) started
+20170403 14093150  #  -    00.004.699
+20170403 14093150  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14093150  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14093150  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 649 us
+20170403 14093150  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[1]}
+20170403 14093150  #  -    00.001.577
+20170403 14093452  # trace mORMot.TSQLRestServerFullMemory(0263F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00001F60 ThreadCount=1
+20170403 14093460  # info  SetThreadName 00001094=TSQLHttpServer 8888/root TWebSocketServerResp
+20170403 14093460  # trace mORMot.TSQLRestServerFullMemory(0263F1A0) BeginCurrentThread(TWebSocketServerResp) root=root ThreadID=00001094 ThreadCount=2
+20170403 14093460  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170403 14093460  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["bbb",2]
+20170403 14093460  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 415 us
+20170403 14093460  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14093460  % info  {"TLongWorkServiceThread(02661FE0)":{}}.Execute(bbb) started
+20170403 14093460  #  -    00.001.912
+20170403 14093460  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14093460  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14093460  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 544 us
+20170403 14093460  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[2]}
+20170403 14093460  #  -    00.001.487
+20170403 14093652  $ trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFailed/1) on socket=2
+20170403 14093652  $ ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14093652  $ EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFailed) failed: 'TWebSocketServerRest.Callback(2) received status=404 from root/LongWorkCallback.WorkFailed/1'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14093653  $ trace mORMot.TSQLRestServerFullMemory(0263F1A0) TInterfacedObjectFakeServer(026A6DE0:1).Destroy ILongWorkService
+20170403 14093653  $ trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/_free_/1) on socket=2
+20170403 14093653  $ ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006F6289 006E5A22 00419525 006E3CF9 00417A5E 0041428E 004140D5 0040E7BE 0040E3E0 0040F131 0051193C 0040E6C8 0051156A 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14093711  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170403 14093711  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["ccc",3]
+20170403 14093711  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 268 us
+20170403 14093711  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14093711  #  -    00.002.885
+20170403 14093711  & info  {"TLongWorkServiceThread(02661F50)":{}}.Execute(ccc) started
+20170403 14093711  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14093711  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14093711  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 421 us
+20170403 14093711  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[3]}
+20170403 14093711  #  -    00.002.116
+20170403 14093820  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=10)
+20170403 14093820  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["dddd",4]
+20170403 14093820  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 257 us
+20170403 14093820  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14093820  ' info  {"TLongWorkServiceThread(02662070)":{}}.Execute(dddd) started
+20170403 14093820  #  -    00.002.867
+20170403 14093820  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14093820  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14093820  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 342 us
+20170403 14093820  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[4]}
+20170403 14093820  #  -    00.001.135
+20170403 14093932  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170403 14093932  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["eee",5]
+20170403 14093932  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 260 us
+20170403 14093932  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14093932  ( info  {"TLongWorkServiceThread(02662100)":{}}.Execute(eee) started
+20170403 14093932  #  -    00.002.503
+20170403 14093932  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14093932  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14093932  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 563 us
+20170403 14093932  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[5]}
+20170403 14093932  #  -    00.001.579
+20170403 14094036  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170403 14094036  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["fff",6]
+20170403 14094036  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 281 us
+20170403 14094036  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14094036  ) info  {"TLongWorkServiceThread(02662190)":{}}.Execute(fff) started
+20170403 14094036  #  -    00.002.518
+20170403 14094036  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14094036  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14094036  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 562 us
+20170403 14094036  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[6]}
+20170403 14094036  #  -    00.001.630
+20170403 14094052  % trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFinished/2) on socket=3
+20170403 14094052  % ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742259 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094052  % EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFinished) failed: 'TWebSocketServerRest.Callback(3) received status=404 from root/LongWorkCallback.WorkFinished/2'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742259 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094052  % trace mORMot.TSQLRestServerFullMemory(0263F1A0) TInterfacedObjectFakeServer(026A6980:2).Destroy ILongWorkService
+20170403 14094053  % trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/_free_/2) on socket=3
+20170403 14094053  % ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006F6289 006E5A22 00419525 006E3CF9 00417A5E 0041428E 004140D5 0040E7BE 0040E3E0 0040F131 0051193C 0040E6C8 0051156A 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094222  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.StartWork inlen=9)
+20170403 14094222  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.StartWork["ggg",7]
+20170403 14094222  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.StartWork SOA-Interface -> 200 with outlen=13 in 265 us
+20170403 14094222  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[]}
+20170403 14094222  #  -    00.002.167
+20170403 14094222  * info  {"TLongWorkServiceThread(02661FE0)":{}}.Execute(ggg) started
+20170403 14094222  #  +    mORMot.TSQLRestServerFullMemory(0263F1A0).URI(POST root/LongWorkService.TotalWorkCount inlen=2)
+20170403 14094222  # call  	mORMot.TSQLRestServerFullMemory(0263F1A0) ILongWorkService.TotalWorkCount[]
+20170403 14094222  # srvr  	mORMot.TSQLRestServerFullMemory(0263F1A0)   POST root/LongWorkService.TotalWorkCount SOA-Interface -> 200 with outlen=14 in 573 us
+20170403 14094222  # ret   	mORMot.TSQLRestServerFullMemory(0263F1A0) {"result":[7]}
+20170403 14094222  #  -    00.001.434
+20170403 14094228  & trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFailed/3) on socket=3
+20170403 14094228  & ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094228  & EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFailed) failed: 'TWebSocketServerRest.Callback(3) received status=404 from root/LongWorkCallback.WorkFailed/3'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094228  & trace mORMot.TSQLRestServerFullMemory(0263F1A0) TInterfacedObjectFakeServer(026A6DE0:3).Destroy ILongWorkService
+20170403 14094228  & trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/_free_/3) on socket=3
+20170403 14094229  & ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006F6289 006E5A22 00419525 006E3CF9 00417A5E 0041428E 004140D5 0040E7BE 0040E3E0 0040F131 0051193C 0040E6C8 0051156A 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094400  ' trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFinished/4) on socket=3
+20170403 14094400  ' ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742259 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094400  ' EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFinished) failed: 'TWebSocketServerRest.Callback(3) received status=404 from root/LongWorkCallback.WorkFinished/4'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742259 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094400  ' trace mORMot.TSQLRestServerFullMemory(0263F1A0) TInterfacedObjectFakeServer(026A6E80:4).Destroy ILongWorkService
+20170403 14094400  ' trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/_free_/4) on socket=3
+20170403 14094400  ' ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006F6289 006E5A22 00419525 006E3CF9 00417A5E 0041428E 004140D5 0040E7BE 0040E3E0 0040F131 0051193C 0040E6C8 0051156A 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094452  ( trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFailed/5) on socket=3
+20170403 14094452  ( ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094452  ( EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFailed) failed: 'TWebSocketServerRest.Callback(3) received status=404 from root/LongWorkCallback.WorkFailed/5'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094452  ( trace mORMot.TSQLRestServerFullMemory(0263F1A0) TInterfacedObjectFakeServer(026A6F20:5).Destroy ILongWorkService
+20170403 14094453  ( trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/_free_/5) on socket=3
+20170403 14094453  ( ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006F6289 006E5A22 00419525 006E3CF9 00417A5E 0041428E 004140D5 0040E7BE 0040E3E0 0040F131 0051193C 0040E6C8 0051156A 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094523  # trace mORMot.TSQLRestServerFullMemory(0263F1A0) EndCurrentThread(TWebSocketServerResp) ThreadID=00001094 ThreadCount=1
+20170403 14094546  ) trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFinished/6) on socket=3
+20170403 14094546  ) ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742259 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094546  ) EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFinished) failed: 'TWebSocketServerRest.Callback(3) received status=404 from root/LongWorkCallback.WorkFinished/6'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742259 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094547  ) trace mORMot.TSQLRestServerFullMemory(0263F1A0) TInterfacedObjectFakeServer(026A6FC0:6).Destroy ILongWorkService
+20170403 14094547  ) trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/_free_/6) on socket=3
+20170403 14094547  ) ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006F6289 006E5A22 00419525 006E3CF9 00417A5E 0041428E 004140D5 0040E7BE 0040E3E0 0040F131 0051193C 0040E6C8 0051156A 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094748  * trace SynBidirSock.TWebSocketServerRest(02653E40) Callback(root/LongWorkCallback.WorkFailed/7) on socket=3
+20170403 14094749  * ERROR SynBidirSock.TWebSocketServerRest(02653E40) Callback() on inactive socket stack trace API 005DC429 0073BAED 007410C5 006E5D9B 006E4521 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 
+20170403 14094749  * EXC   EInterfaceFactoryException {"Message":"TInterfacedObjectFakeServer.FakeCall(ILongWorkCallback.WorkFailed) failed: 'TWebSocketServerRest.Callback(3) received status=404 from root/LongWorkCallback.WorkFailed/7'"} at 006E3F71  stack trace API 005D9489 005D94C5 00007FF86591BD00 00007FF8658F960B 00007FF8658FB629 00007FF8621F7788 00410C06 00410C31 006E3F71 006E454E 006E52BC 006E9314 00742281 00511513 0041173B 00007FF863378364 00007FF8659170D1 

@@ -1,0 +1,231 @@
+WebClient.exe: 00001DF8: 16:41:23 [TUniServerModule]:Server First Init.
+WebClient.exe: 00001DF8: 16:41:23 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00001DF8: 16:41:23 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $0079F03D
+WebClient.exe: 00001DF8: 16:41:26 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00001DF8: 16:41:27 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00001DF8: 16:41:27 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00001DF8: 16:41:27 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00001DF8: 16:41:27 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00001DF8: 16:41:27 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00001DF8: 16:41:27 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00001DF8: 16:41:27 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00001DF8: 16:41:27 [Terminated]:Exit Code: 0
+WebClient.exe: 000003B4: 16:41:30 [TUniServerModule]:Server First Init.
+WebClient.exe: 000003B4: 16:41:30 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 000003B4: 16:41:30 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 000003B4: 16:41:30 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 000003B4: 16:41:30 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00002B44: 16:41:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886529
+WebClient.exe: 00002B44: 16:41:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886529
+WebClient.exe: 00002B44: 16:41:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886529
+WebClient.exe: 000032A4: 16:41:41 [127.0.0.1]:EInOutError : I/O error 105 : Addr: $008A8514
+WebClient.exe: 000032A4: 16:41:43 [127.0.0.1]:EInOutError : I/O error 105 : Addr: $008A8514
+WebClient.exe: 000003B4: 16:41:57 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 000003B4: 16:41:58 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 000003B4: 16:41:58 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 000003B4: 16:41:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 000003B4: 16:41:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 000003B4: 16:41:58 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 000003B4: 16:41:58 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 000003B4: 16:41:58 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 000003B4: 16:41:58 [Terminated]:Exit Code: 0
+WebClient.exe: 00002BF8: 16:42:18 [TUniServerModule]:Server First Init.
+WebClient.exe: 00002BF8: 16:42:18 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00002BF8: 16:42:18 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00002BF8: 16:42:18 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00002BF8: 16:42:18 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00004354: 16:42:22 [127.0.0.1]:EInOutError : I/O error 105 : Addr: $008A8504
+WebClient.exe: 00002BF8: 16:42:58 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00002BF8: 16:42:59 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00002BF8: 16:42:59 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00002BF8: 16:42:59 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00002BF8: 16:42:59 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00002BF8: 16:42:59 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00002BF8: 16:42:59 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00002BF8: 16:42:59 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00002BF8: 16:42:59 [Terminated]:Exit Code: 0
+WebClient.exe: 000040C8: 16:43:02 [TUniServerModule]:Server First Init.
+WebClient.exe: 000040C8: 16:43:02 [TUniServerModule]:Debug Mode = ON
+WebClient.exe: 000040C8: 16:43:02 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 000040C8: 16:43:02 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 000040C8: 16:43:02 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 000040C8: 16:43:02 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 000003EC: 16:43:19 [127.0.0.1]:EInOutError : I/O error 105 : Addr: $008A8504
+WebClient.exe: 00003EB0: 16:43:26 [TUniServerModule]:Server First Init.
+WebClient.exe: 00003EB0: 16:43:26 [TUniServerModule]:Debug Mode = ON
+WebClient.exe: 00003EB0: 16:43:26 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00003EB0: 16:43:26 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+WebClient.exe: 00003EB0: 16:43:26 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00003EB0: 16:43:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00004108: 16:43:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00001DFC: 16:43:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000026DC: 16:43:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00003528: 16:44:56 [TUniServerModule]:Server First Init.
+WebClient.exe: 00003528: 16:44:56 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00003528: 16:44:56 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+WebClient.exe: 00003528: 16:44:56 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00003528: 16:44:56 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00002D5C: 16:44:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00002D5C: 16:45:02 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A8575
+WebClient.exe: 00002D5C: 16:45:46 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 00002D5C: 16:45:54 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 00002D5C: 16:46:06 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 00003528: 16:46:48 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00002B54: 16:46:49 [Indy]:EIdNotConnected : Not Connected : Addr: $007A8736
+WebClient.exe: 00002954: 16:46:49 [Indy]:EIdNotConnected : Not Connected : Addr: $007A8736
+WebClient.exe: 00003528: 16:46:49 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00003528: 16:46:49 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00003528: 16:46:49 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00003528: 16:46:49 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00003528: 16:46:49 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00003528: 16:46:49 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00003528: 16:46:49 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00003528: 16:46:49 [Terminated]:Exit Code: 0
+WebClient.exe: 00000E20: 16:47:17 [TUniServerModule]:Server First Init.
+WebClient.exe: 00000E20: 16:47:17 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00000E20: 16:47:17 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00000E20: 16:47:17 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00000E20: 16:47:17 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00002D08: 16:47:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 0000218C: 16:47:20 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 0000218C: 16:47:24 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 0000218C: 16:47:31 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 0000218C: 16:47:36 [127.0.0.1]:EServiceException : TServiceFactoryClient.Destroy with RefCount=2: you must release ILongWorkService interface (setting := nil) before Client.Free : Addr: $00631478
+WebClient.exe: 00000E20: 16:48:08 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00000E20: 16:48:09 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00000E20: 16:48:09 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00000E20: 16:48:09 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00000E20: 16:48:09 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00000E20: 16:48:09 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00000E20: 16:48:09 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00000E20: 16:48:09 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00000E20: 16:48:09 [Terminated]:Exit Code: 0
+WebClient.exe: 00003AFC: 16:48:13 [TUniServerModule]:Server First Init.
+WebClient.exe: 00003AFC: 16:48:13 [TUniServerModule]:Debug Mode = ON
+WebClient.exe: 00003AFC: 16:48:13 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00003AFC: 16:48:13 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00003AFC: 16:48:13 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00003AFC: 16:48:13 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00003508: 16:48:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00003F4C: 16:48:31 [TUniServerModule]:Server First Init.
+WebClient.exe: 00003F4C: 16:48:31 [TUniServerModule]:Debug Mode = ON
+WebClient.exe: 00003F4C: 16:48:31 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00003F4C: 16:48:31 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00003F4C: 16:48:31 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00003F4C: 16:48:31 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00000C5C: 16:49:09 [TUniServerModule]:Server First Init.
+WebClient.exe: 00000C5C: 16:49:09 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00000C5C: 16:49:09 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+WebClient.exe: 00000C5C: 16:49:09 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00000C5C: 16:49:09 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00003BC4: 16:49:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00000C5C: 16:50:02 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 000011E8: 16:50:03 [Indy]:EIdNotConnected : Not Connected : Addr: $007A8736
+WebClient.exe: 00000C5C: 16:50:03 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00000C5C: 16:50:03 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00000C5C: 16:50:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00000C5C: 16:50:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00000C5C: 16:50:04 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00000C5C: 16:50:04 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00000C5C: 16:50:04 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00000C5C: 16:50:04 [Terminated]:Exit Code: 0
+WebClient.exe: 00000FB8: 16:50:57 [TUniServerModule]:Server First Init.
+WebClient.exe: 00000FB8: 16:50:57 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00000FB8: 16:50:57 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00000FB8: 16:50:57 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00000FB8: 16:50:57 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00001920: 16:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00000FB8: 17:14:57 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00000FB8: 17:14:58 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00000FB8: 17:14:58 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00000FB8: 17:14:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00000FB8: 17:14:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00000FB8: 17:14:58 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00000FB8: 17:14:58 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00000FB8: 17:14:58 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00000FB8: 17:14:58 [Terminated]:Exit Code: 0
+WebClient.exe: 00002CCC: 17:15:38 [TUniServerModule]:Server First Init.
+WebClient.exe: 00002CCC: 17:15:38 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00002CCC: 17:15:38 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00002CCC: 17:15:38 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00002CCC: 17:15:38 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 000011D4: 17:15:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00002CCC: 17:16:48 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 000009D0: 17:18:33 [TUniServerModule]:Server First Init.
+WebClient.exe: 000009D0: 17:18:33 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 000009D0: 17:18:33 [TUniServerModule]:Cache Folder Erased. <3> Files deleted.
+WebClient.exe: 000009D0: 17:18:33 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 000009D0: 17:18:33 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 000000DC: 17:18:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000000DC: 17:18:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000000DC: 17:18:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000000DC: 17:18:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000009D0: 17:19:31 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 000009D0: 17:19:32 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 000009D0: 17:19:32 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 000009D0: 17:19:32 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 000009D0: 17:19:32 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 000009D0: 17:19:32 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 000009D0: 17:19:32 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 000009D0: 17:19:32 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 000009D0: 17:19:32 [Terminated]:Exit Code: 0
+WebClient.exe: 00003AD4: 17:19:46 [TUniServerModule]:Server First Init.
+WebClient.exe: 00003AD4: 17:19:46 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00003AD4: 17:19:46 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00003AD4: 17:19:46 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00003AD4: 17:19:46 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00002BDC: 17:19:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00003AD4: 17:37:09 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00003AD4: 17:37:09 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00003AD4: 17:37:09 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00003AD4: 17:37:09 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00003AD4: 17:37:09 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00003AD4: 17:37:09 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00003AD4: 17:37:09 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00003AD4: 17:37:09 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00003AD4: 17:37:09 [Terminated]:Exit Code: 0
+WebClient.exe: 0000544C: 17:48:52 [TUniServerModule]:Server First Init.
+WebClient.exe: 0000544C: 17:48:52 [TUniServerModule]:Debug Mode = ON
+WebClient.exe: 0000544C: 17:48:52 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 0000544C: 17:48:52 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 0000544C: 17:48:52 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 0000544C: 17:48:52 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00005F08: 17:48:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000062BC: 17:54:26 [TUniServerModule]:Server First Init.
+WebClient.exe: 000062BC: 17:54:26 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 000062BC: 17:54:26 [TUniServerModule]:Cache Folder Erased. <2> Files deleted.
+WebClient.exe: 000062BC: 17:54:26 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 000062BC: 17:54:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 00006850: 17:54:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00006850: 17:58:48 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 000055C4: 17:59:11 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 00006048: 17:59:48 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 000062BC: 18:02:03 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 000062BC: 18:02:04 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 000062BC: 18:02:04 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 000062BC: 18:02:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 000062BC: 18:02:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 000062BC: 18:02:04 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 000062BC: 18:02:04 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 000062BC: 18:02:04 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 000062BC: 18:02:04 [Terminated]:Exit Code: 0
+WebClient.exe: 00007148: 18:03:31 [TUniServerModule]:Server First Init.
+WebClient.exe: 00007148: 18:03:31 [TUniServerModule]:Erasing Cache Folder...
+WebClient.exe: 00007148: 18:03:31 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+WebClient.exe: 00007148: 18:03:31 [TUniServerModule]:Starting HTTP Server...
+WebClient.exe: 00007148: 18:03:31 [TUniServerModule]:HTTP Server Started. Port: 8077
+WebClient.exe: 000078D8: 18:03:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 000078D8: 18:06:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $00886519
+WebClient.exe: 00007B24: 18:07:30 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 000072CC: 18:07:32 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 000073DC: 18:07:34 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 00007714: 18:07:36 [127.0.0.1]:EServiceException : Error connecting to the server: please run Project31LongWorkServer.exe : Addr: $008A843A
+WebClient.exe: 00007148: 18:13:37 [TUniServerModule]:Shutting Down Server.
+WebClient.exe: 00007148: 18:13:38 [TUniServerModule]:HTTP Server Stopped.
+WebClient.exe: 00007148: 18:13:38 [TUniGUISessionManager]:Terminating Session manager.
+WebClient.exe: 00007148: 18:13:38 [TUniGUISessionManager]:Stopping Cache Eraser...
+WebClient.exe: 00007148: 18:13:38 [TUniGUISessionManager]:Cache Eraser Stopped.
+WebClient.exe: 00007148: 18:13:38 [TUniGUISessionManager]:Destroying Worker Threads.
+WebClient.exe: 00007148: 18:13:38 [TUniGUISessionManager]:Session manager terminated.
+WebClient.exe: 00007148: 18:13:38 [TUniServerModule]:Server Shutdown Completed.
+WebClient.exe: 00007148: 18:13:38 [Terminated]:Exit Code: 0

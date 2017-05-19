@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{C3895DF8-EA69-4A63-B4FC-9F7F2BCE934F}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Project31LongWorkClient.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Project31LongWorkServer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="WebClient\WebClient.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Project31LongWorkClient">
+        <MSBuild Projects="Project31LongWorkClient.dproj"/>
+    </Target>
+    <Target Name="Project31LongWorkClient:Clean">
+        <MSBuild Projects="Project31LongWorkClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project31LongWorkClient:Make">
+        <MSBuild Projects="Project31LongWorkClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Project31LongWorkServer">
+        <MSBuild Projects="Project31LongWorkServer.dproj"/>
+    </Target>
+    <Target Name="Project31LongWorkServer:Clean">
+        <MSBuild Projects="Project31LongWorkServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Project31LongWorkServer:Make">
+        <MSBuild Projects="Project31LongWorkServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="WebClient">
+        <MSBuild Projects="WebClient\WebClient.dproj"/>
+    </Target>
+    <Target Name="WebClient:Clean">
+        <MSBuild Projects="WebClient\WebClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="WebClient:Make">
+        <MSBuild Projects="WebClient\WebClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Project31LongWorkClient;Project31LongWorkServer;WebClient"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Project31LongWorkClient:Clean;Project31LongWorkServer:Clean;WebClient:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Project31LongWorkClient:Make;Project31LongWorkServer:Make;WebClient:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

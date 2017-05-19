@@ -1,0 +1,165 @@
+C:\LIB\DELPHI_LIB\mORMot_Lastest\SQLite3\Samples\16 - Execute SQL via services\Project16ServerHttp.exe 0.0.0.0 (2017-01-25 10:26:42)Host=JONIT440P User=xchinjo CPU=4*9-6-15363:FFFBEBBFFFFBFA7FAB27000000 OS=15.0=6.2.9200 Wow64=1 Freq=2825480Environment variables=ALLUSERSPROFILE=C:\ProgramData	APPDATA=C:\Users\xchinjo\AppData\Roaming	CommonProgramFiles=C:\Program Files (x86)\Common Files	CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files	CommonProgramW6432=C:\Program Files\Common Files	COMPUTERNAME=JONIT440P	ComSpec=C:\WINDOWS\system32\cmd.exe	ESET_OPTIONS=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer	FPS_BROWSER_USER_PROFILE_STRING=Default	HOMEDRIVE=C:	HOMEPATH=\Users\xchinjo	LOCALAPPDATA=C:\Users\xchinjo\AppData\Local	LOGONSERVER=\\JONIT440P	NLS_LANG=THAI_THAILAND.TH8TISASCII	NUMBER_OF_PROCESSORS=4	OneDrive=C:\Users\xchinjo\OneDrive	ORACLE_HOME=D:\app\xchinjo\product\11.2.0\dbhome_1	OS=Windows_NT	Path=D:\Oracle\OracleInstantClient;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin64;C:\Users\Public\Documents\RAD Studio\9.0\Bpl\Win64;C:\Program Files (x86)\Borland\Delphi7\Bin;C:\Program Files (x86)\Borland\Delphi7\Projects\Bpl\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\OpenVPN\bin;C:\Program Files (x86)\Common Files\Tom Sawyer Software\8.0.0;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\18.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\17.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\17.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin64;C:\Users\Public\Documents\Embarcadero\Studio\15.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin;C:\Users\Public\Documents\RAD Studio\12.0\Bpl;C:\Program Files (x86)\Embarcadero\RAD Studio\12.0\bin64;C:\Users\Public\Documents\RAD Studio\12.0\Bpl\Win64;C:\Program Files (x86)\Embarcadero\RAD Studio\9.0\bin;C:\Users\Public\Documents\RAD Studio\9.0\Bpl;C:\Program Files (x86)\Em	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC	PROCESSOR_ARCHITECTURE=x86	PROCESSOR_ARCHITEW6432=AMD64	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel	PROCESSOR_LEVEL=6	PROCESSOR_REVISION=3c03	ProgramData=C:\ProgramData	ProgramFiles=C:\Program Files (x86)	ProgramFiles(x86)=C:\Program Files (x86)	ProgramW6432=C:\Program Files	PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\	PUBLIC=C:\Users\Public	SESSIONNAME=Console	SystemDrive=C:	SystemRoot=C:\WINDOWS	TEMP=C:\Users\xchinjo\AppData\Local\Temp	TMP=C:\Users\xchinjo\AppData\Local\Temp	TNS_ADMIN=D:\Oracle\OracleInstantClient	TVT=C:\Program Files (x86)\Lenovo	USERDOMAIN=JONIT440P	USERDOMAIN_ROAMINGPROFILE=JONIT440P	USERNAME=xchinjo	USERPROFILE=C:\Users\xchinjo	VS110COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\	windir=C:\WINDOWSTSQLLog 1.18.3289 FTS3 2017-01-25T03:36:1520170125 03361539  !  +    mORMotHttpServer.TSQLHttpServer(024DF780).Create useHttpApiRegisteringURI (secNone) on port 888
+20170125 03361539  ! http  	mORMotHttpServer.TSQLHttpServer(024DF780) http.sys registration of http://+:888/root
+20170125 03361539  " info  SetThreadName 00000C84=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  " trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00000C84 ThreadCount=1
+20170125 03361539  # info  SetThreadName 00003240=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  $ info  SetThreadName 000024FC=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  % info  SetThreadName 000025F8=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  & info  SetThreadName 00002A08=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  # trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00003240 ThreadCount=2
+20170125 03361539  ' info  SetThreadName 000009B8=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  ( info  SetThreadName 00002944=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  ) info  SetThreadName 00002910=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  * info  SetThreadName 00002BBC=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  * trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002BBC ThreadCount=9
+20170125 03361539  + info  SetThreadName 00001DC4=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  + trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00001DC4 ThreadCount=10
+20170125 03361539  , info  SetThreadName 00002A9C=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  , trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002A9C ThreadCount=11
+20170125 03361539  - info  SetThreadName 00001F0C=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  - trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00001F0C ThreadCount=12
+20170125 03361539  . info  SetThreadName 0000283C=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  . trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=0000283C ThreadCount=13
+20170125 03361539  / info  SetThreadName 00001F34=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  / trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00001F34 ThreadCount=14
+20170125 03361539  0 info  SetThreadName 000031EC=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  0 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000031EC ThreadCount=15
+20170125 03361539  1 info  SetThreadName 000028A8=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  2 info  SetThreadName 00000500=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  2 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00000500 ThreadCount=17
+20170125 03361539  3 info  SetThreadName 0000303C=TSQLHttpServer 888/root THttpApiServer
+20170125 03361539  3 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=0000303C ThreadCount=18
+20170125 03361540  4 info  SetThreadName 00003050=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  4 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00003050 ThreadCount=19
+20170125 03361540  5 info  SetThreadName 000024A4=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  5 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000024A4 ThreadCount=20
+20170125 03361540  6 info  SetThreadName 00002BF0=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  6 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002BF0 ThreadCount=21
+20170125 03361540  ) trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002910 ThreadCount=8
+20170125 03361540  7 info  SetThreadName 00002FA4=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  7 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002FA4 ThreadCount=22
+20170125 03361540  $ trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000024FC ThreadCount=3
+20170125 03361540  8 info  SetThreadName 00002628=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  8 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002628 ThreadCount=23
+20170125 03361540  9 info  SetThreadName 00002CE8=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  9 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002CE8 ThreadCount=24
+20170125 03361540  % trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000025F8 ThreadCount=4
+20170125 03361540  : info  SetThreadName 00002370=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  : trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002370 ThreadCount=25
+20170125 03361540  ' trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000009B8 ThreadCount=6
+20170125 03361540  ; info  SetThreadName 00000E84=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  ; trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00000E84 ThreadCount=26
+20170125 03361540  ( trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002944 ThreadCount=7
+20170125 03361540  < info  SetThreadName 000027DC=TSQLHttpServer 888/root THttpApiServer
+20170125 03361540  = info  SetThreadName 00002FEC=TSQLHttpServer 888/root THttpApiServer
+20170125 03361541  > info  SetThreadName 00002990=TSQLHttpServer 888/root THttpApiServer
+20170125 03361541  ? info  SetThreadName 00000484=TSQLHttpServer 888/root THttpApiServer
+20170125 03361541  ? trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00000484 ThreadCount=30
+20170125 03361541  @ info  SetThreadName 00002CFC=TSQLHttpServer 888/root THttpApiServer
+20170125 03361541  @ trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002CFC ThreadCount=31
+20170125 03361541  & trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002A08 ThreadCount=5
+20170125 03361541  1 trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000028A8 ThreadCount=16
+20170125 03361541  < trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=000027DC ThreadCount=27
+20170125 03361541  = trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002FEC ThreadCount=28
+20170125 03361541  > trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=00002990 ThreadCount=29
+20170125 03361541  ! http  	mORMotHttpServer.TSQLHttpServer(024DF780) {"THttpApiServer(02508C30)":{"Cloned":false,"RegisteredUrl":"http://+:888/root/","HTTPQueueLength":1000,"MaxBandwidth":-1,"MaxConnections":-1,"APIVersion":"HTTP API 2.0","ServerName":"mORMot (Windows)","ProcessName":"root "}} initialized for root
+20170125 03361541  !  -    00.047.437
+20170125 03361541  A info  SetThreadName 0000115C=TSQLHttpServer 888/root THttpApiServer
+20170125 03361541  A trace mORMot.TSQLRestServerFullMemory(0256B680) BeginCurrentThread(THttpApiServer) root=root ThreadID=0000115C ThreadCount=32
+20170125 03361831  "  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/TimeStamp inlen=0)
+20170125 03361831  " call  	mORMot.TSQLRestServerFullMemory(0256B680) TimeStamp 
+20170125 03361831  " srvr  	mORMot.TSQLRestServerFullMemory(0256B680)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 100 us
+20170125 03361831  " ret   	mORMot.TSQLRestServerFullMemory(0256B680) 135361739026
+20170125 03361831  "  -    00.001.643
+20170125 03361831  #  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/Auth?UserName=User inlen=0)
+20170125 03361831  # call  	mORMot.TSQLRestServerFullMemory(0256B680) Auth UserName=User
+20170125 03361831  # srvr  	mORMot.TSQLRestServerFullMemory(0256B680)   GET root/Auth SOA-Method -> 200 with outlen=77 in 354 us
+20170125 03361831  # ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":"e731f334a4bb51f3adfd1d57d561bd2a8af7a9bb8d377e2fcc7924df5326e47a"}
+20170125 03361831  #  -    00.001.860
+20170125 03361831  *  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/Auth?UserName=User&Password=3c38ac64de084015fac87c114b5a45a3a49d709919e22b2fa96048c1fdc9e5b4&ClientNonce=37FDEA20BB23D2DDA7297537E2158C69BB5891ACE09ABA348A6A050A0A555733 inlen=0)
+20170125 03361831  * call  	mORMot.TSQLRestServerFullMemory(0256B680) Auth UserName=User&Password=3c38ac64de084015fac87c114b5a45a3a49d709919e22b2fa96048c1fdc9e5b4&ClientNonce=37FDEA20BB23D2DDA7297537E2158C69BB5891ACE09ABA348A6A050A0A555733
+20170125 03361831  * auth  	mORMot.TAuthSession(024B1420) New "User" session User/270315546 created at 127.0.0.1/-1224979097034162158 running Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20170125 03361831  * srvr  	mORMot.TSQLRestServerFullMemory(0256B680)   GET root/Auth SOA-Method -> 200 with outlen=206 in 3242 us
+20170125 03361831  * ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":"270315546+36AF2C6FB47F89C1023888208B75EF45D46EA6AB7CE12640DA4ED9B2D27465F6","logonid":3,"logonname":"User","logondisplay":"User","logongroup":3,"server":"Project16ServerHttp","version":"0.0.0.0"}
+20170125 03361831  *  -    00.005.634
+20170125 03361831  +  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL._contract_?session_signature=101CB01A00055B51BADDA504 inlen=2)
+20170125 03361831  + auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315546 127.0.0.1
+20170125 03361831  + call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL._contract_[]
+20170125 03361831  + srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 POST root/RemoteSQL._contract_ SOA-Interface -> 200 with outlen=31 in 809 us
+20170125 03361831  + ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":["659F1CE2F4CFDE70"]}
+20170125 03361831  +  -    00.002.535
+20170125 03362808  ,  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL.Connect?session_signature=101CB01A00055B7685E114E9 inlen=50)
+20170125 03362808  , auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315546 127.0.0.1
+20170125 03362808  , call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL.Connect[0,"rootcode.info","SIMSDev","joni","P@ssw0rd123"]
+20170125 03362808  , debug 	mORMot.TSQLRestServerFullMemory(0256B680) TServiceFactoryServer.InternalInstanceRetrieve: Adding RemoteSQL(02573E60) instance (id=1)
+20170125 03362808  , srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 POST root/RemoteSQL.Connect SOA-Interface -> 200 with outlen=20 in 1341 us
+20170125 03362808  , ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":[],"id":1}
+20170125 03362808  ,  -    00.003.563
+20170125 03362810  -  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL.GetTableNames/1?session_signature=101CB01A00055B769984D118 inlen=2)
+20170125 03362810  - auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315546 127.0.0.1
+20170125 03362810  - call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL.GetTableNames[]
+20170125 03362810  !  +    SynOleDB.TOleDBConnection(02B06690).0070DB1D 
+20170125 03362810  !  -    00.002.057
+20170125 03362810  !  +    SynOleDB.TOleDBConnection(02B06690).0070D8A2 
+20170125 03362819  ! ERROR 	"EOleDBException(02588C60)":{"EOleDBException(02588C60)":{"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"}} stack trace API 00546798 0070E203 0070E3A4 0070D96C 0070F4EB 0070EA63 00717E55 0060959B 0071E84C 004B892C 0052BF49 0071E9F0 769B62C4 771C0FD9 771C0FA4 
+20170125 03362819  ! EXC   	EOleDBException {"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"} at 0070E20B  stack trace API 00544410 00544438 0040AE1C 
+20170125 03362819  ! ERROR 	"EOleDBException(02588C60)":{"EOleDBException(02588C60)":{"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"}} stack trace API 00546798 0070DA21 0070F4EB 0070EA63 00717E55 0060959B 0071E84C 004B892C 0052BF49 0071E9F0 769B62C4 771C0FD9 771C0FA4 
+20170125 03362819  ! EXC   	EOleDBException {"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"} at 0070E20B  stack trace API 00544410 00544438 0040AE1C 
+20170125 03362819  !  -    00.146.961
+20170125 03362819  - srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 POST root/RemoteSQL.GetTableNames SOA-Interface -> 200 with outlen=22 in 151274 us
+20170125 03362819  - ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":[[]],"id":1}
+20170125 03362819  -  -    00.152.786
+20170125 03364936  .  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL._free_/1?session_signature=101CB01A00055BCAAD29AA67 inlen=2)
+20170125 03364936  . auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315546 127.0.0.1
+20170125 03364936  . call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL._free_[]
+20170125 03364936  !  +    SynOleDB.TOleDBConnection(02B06690).0070DC31 
+20170125 03364936  !  +    	SynOleDB.TOleDBConnection(02B06690).0070DCF3 
+20170125 03364936  !  -    	00.000.685
+20170125 03364936  !  -    00.004.396
+20170125 03364936  . srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 POST root/RemoteSQL._free_ SOA-Interface -> 200 with outlen=0 in 5478 us
+20170125 03364936  .  -    00.007.661
+20170125 03364936  /  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/Auth?UserName=User&Session=270315546&session_signature=101CB01A00055BCA952AB6E4 inlen=0)
+20170125 03364936  / auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315546 127.0.0.1
+20170125 03364936  / call  	mORMot.TSQLRestServerFullMemory(0256B680) Auth UserName=User&Session=270315546&session_signature=101CB01A00055BCA952AB6E4
+20170125 03364936  / auth  	mORMot.TSQLRestServerFullMemory(0256B680) Deleted session User:270315546/1 from 127.0.0.1/-1224979097034162158
+20170125 03364936  / srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 GET root/Auth SOA-Method -> 200 with outlen=0 in 1012 us
+20170125 03364936  /  -    00.002.580
+20170125 03365424  0  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/TimeStamp inlen=0)
+20170125 03365424  0 call  	mORMot.TSQLRestServerFullMemory(0256B680) TimeStamp 
+20170125 03365424  0 srvr  	mORMot.TSQLRestServerFullMemory(0256B680)   GET root/TimeStamp SOA-Method -> 200 with outlen=12 in 208 us
+20170125 03365424  0 ret   	mORMot.TSQLRestServerFullMemory(0256B680) 135361739062
+20170125 03365424  0  -    00.002.921
+20170125 03365424  2  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/Auth?UserName=User inlen=0)
+20170125 03365424  2 call  	mORMot.TSQLRestServerFullMemory(0256B680) Auth UserName=User
+20170125 03365424  2 srvr  	mORMot.TSQLRestServerFullMemory(0256B680)   GET root/Auth SOA-Method -> 200 with outlen=77 in 765 us
+20170125 03365424  2 ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":"e731f334a4bb51f3adfd1d57d561bd2a8af7a9bb8d377e2fcc7924df5326e47a"}
+20170125 03365424  2  -    00.001.579
+20170125 03365424  3  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(GET root/Auth?UserName=User&Password=2c6d43e27a0091fd258d04b6f8577b5e0d1e240609bd47f13e145330df32bdab&ClientNonce=53E29D23789C5AC0495B4EE0DF3E19D79EBD257F6ED01E978D9E49DE9E6107CA inlen=0)
+20170125 03365424  3 call  	mORMot.TSQLRestServerFullMemory(0256B680) Auth UserName=User&Password=2c6d43e27a0091fd258d04b6f8577b5e0d1e240609bd47f13e145330df32bdab&ClientNonce=53E29D23789C5AC0495B4EE0DF3E19D79EBD257F6ED01E978D9E49DE9E6107CA
+20170125 03365424  3 auth  	mORMot.TAuthSession(024B1350) New "User" session User/270315541 created at 127.0.0.1/-1224979097034162149 running Mozilla/5.0 (Windows; mORMot 1.18 TWinHTTP)
+20170125 03365424  3 srvr  	mORMot.TSQLRestServerFullMemory(0256B680)   GET root/Auth SOA-Method -> 200 with outlen=206 in 733 us
+20170125 03365424  3 ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":"270315541+577700EB05C602C547D10604E5C87DE88C4477E886D67405E43D870EF37B8E45","logonid":3,"logonname":"User","logondisplay":"User","logongroup":3,"server":"Project16ServerHttp","version":"0.0.0.0"}
+20170125 03365424  3  -    00.004.406
+20170125 03365424  4  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL._contract_?session_signature=101CB01500055BDD8E50EA91 inlen=2)
+20170125 03365424  4 auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315541 127.0.0.1
+20170125 03365424  4 call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL._contract_[]
+20170125 03365424  4 srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 POST root/RemoteSQL._contract_ SOA-Interface -> 200 with outlen=31 in 371 us
+20170125 03365424  4 ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":["659F1CE2F4CFDE70"]}
+20170125 03365425  4  -    00.002.186
+20170125 03370054  5  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL.Connect?session_signature=101CB01500055BF6752C131D inlen=50)
+20170125 03370054  5 auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315541 127.0.0.1
+20170125 03370054  5 call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL.Connect[0,"rootcode.info","SIMSDev","joni","P@ssw0rd123"]
+20170125 03370054  5 debug 	mORMot.TSQLRestServerFullMemory(0256B680) TServiceFactoryServer.InternalInstanceRetrieve: Adding RemoteSQL(02573EE0) instance (id=2)
+20170125 03370054  5 srvr  	mORMot.TSQLRestServerFullMemory(0256B680) User 127.0.0.1 POST root/RemoteSQL.Connect SOA-Interface -> 200 with outlen=20 in 1152 us
+20170125 03370054  5 ret   	mORMot.TSQLRestServerFullMemory(0256B680) {"result":[],"id":2}
+20170125 03370054  5  -    00.003.792
+20170125 03370056  6  +    mORMot.TSQLRestServerFullMemory(0256B680).URI(POST root/RemoteSQL.GetTableNames/2?session_signature=101CB01500055BF65B49F9AB inlen=2)
+20170125 03370056  6 auth  	mORMot.TSQLRestRoutingREST(024EFED0) User/270315541 127.0.0.1
+20170125 03370056  6 call  	mORMot.TSQLRestServerFullMemory(0256B680) IRemoteSQL.GetTableNames[]
+20170125 03370056  !  +    SynOleDB.TOleDBConnection(02B06690).0070DB1D 
+20170125 03370056  !  -    00.000.661
+20170125 03370056  !  +    SynOleDB.TOleDBConnection(02B06690).0070D8A2 
+20170125 03370056  ! ERROR 	"EOleDBException(02588C38)":{"EOleDBException(02588C38)":{"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"}} stack trace API 00546798 0070E203 0070E3A4 0070D96C 0070F4EB 0070EA63 00717E55 0060959B 0071E84C 004B892C 0052BF49 0071E9F0 769B62C4 771C0FD9 771C0FA4 
+20170125 03370056  ! EXC   	EOleDBException {"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"} at 0070E20B  stack trace API 00544410 00544438 0040AE1C 
+20170125 03370057  ! ERROR 	"EOleDBException(02588C38)":{"EOleDBException(02588C38)":{"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"}} stack trace API 00546798 0070DA21 0070F4EB 0070EA63 00717E55 0060959B 0071E84C 004B892C 0052BF49 0071E9F0 769B62C4 771C0FD9 771C0FA4 
+20170125 03370057  ! EXC   	EOleDBException {"Message":"Unspecified error - [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified"} at 0070E20B  stack trace API 00544410 00544438 0040AE1C 
